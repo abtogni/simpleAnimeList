@@ -1,2 +1,2 @@
 # simpleAnimeList
-simple anime db website
+simple anime CRUD website
